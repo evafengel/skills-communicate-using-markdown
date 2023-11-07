@@ -1,3 +1,7 @@
-## Header Test ##
+#### Header Test ####
 
 Markdown exercise 
+
+# Markdown image example! #
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
